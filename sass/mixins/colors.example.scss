@@ -1,0 +1,12 @@
+$colors: ( primary: #d1610a, primary-light: #5ccea0, secondary: #db32db);
+@function color($key) {
+    @if map-has-key($colors, $key) {
+        @return map-get($colors, $key);
+    }
+    @warn "Unknown `#{$key}` in $colors.";
+    @return map-get($colors, secondary);
+}
+
+h1 {
+    color: color(primary);
+}

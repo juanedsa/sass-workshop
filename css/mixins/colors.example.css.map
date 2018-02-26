@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AASA,EAAG;EACC,KAAK,EAVW,OAAO",
+"sources": ["../../sass/mixins/colors.example.scss"],
+"names": [],
+"file": "colors.example.css"
+}

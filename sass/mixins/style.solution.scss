@@ -1,0 +1,28 @@
+@import '_variables.solution.scss';
+@import '_mixins.solution.scss';
+button {
+    @include button-shadow($shadow);
+    text-decoration: none;
+    color: $white-color;
+    background-color: $primary-color;
+    text-align: center;
+    letter-spacing: .5px;
+    height: 42px;
+    line-height: 42px;
+    border: none;
+    border-radius: 2px;
+    padding: 0 4em;
+    text-transform: uppercase;
+    &.effect {
+        position: relative;
+        cursor: pointer;
+        display: inline-block;
+        overflow: hidden;
+        vertical-align: middle;
+        z-index: 1;
+        @include button-transition();
+    }
+    &:hover {
+        background-color: $dark-primary-color;
+    }
+}

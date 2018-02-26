@@ -1,0 +1,11 @@
+@import '_variables.solution.scss';
+@mixin button-shadow($shadow-button) {
+    -webkit-box-shadow: $shadow-button;
+    -moz-box-shadow: $shadow-button;
+    box-shadow: $shadow-button;
+}
+@mixin button-transition() {
+    -webkit-transition: .3s ease-out;
+    -moz-transition: .3s ease-out;
+    transition: .3s ease-out;
+}
