@@ -1,1 +1,1 @@
-# Paso 2 - Variables
+# Paso 3 - Partials and Imports
