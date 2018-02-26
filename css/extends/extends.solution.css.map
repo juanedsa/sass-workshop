@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAAgB;EACZ,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,mGAAmG;;AAGnH,QAAS;EAEL,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO;;AAG7B,MAAO;EAEH,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO;;AAG7B,QAAS;EAEL,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO",
+"sources": ["../../sass/extends/extends.solution.scss"],
+"names": [],
+"file": "extends.solution.css"
+}
