@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,EAAG;EACC,KAAK,EANO,OAAO;EAOnB,WAAW,EAAE,IAAI;EACjB,SAAS,EANF,IAAI;EAOX,UAAU,EAAE,MAAM;;AAGtB,EAAG;EACC,KAAK,EAbO,OAAO;EAcnB,SAAS,EAXC,GAAG;EAYb,UAAU,EAAE,MAAM;;AAGtB,EAAG;EACC,KAAK,EAlBM,OAAO;EAmBlB,SAAS,EAjBC,GAAG;EAkBb,UAAU,EAAE,MAAM;;AAGtB,EAAG;EACC,KAAK,EAxBM,OAAO;EAyBlB,SAAS,EAtBA,GAAG;EAuBZ,UAAU,EAAE,MAAM",
+"sources": ["../../sass/variables/variables.solucion.scss"],
+"names": [],
+"file": "variables.solucion.css"
+}

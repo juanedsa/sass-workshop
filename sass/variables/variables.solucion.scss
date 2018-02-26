@@ -1,0 +1,29 @@
+$primary-color: #C2185B;
+$accent-color: #7C4DFF;
+$big-font: 10em;
+$medium-font: 5em;
+$small-font: 2em;
+h1 {
+    color: $primary-color;
+    font-weight: bold;
+    font-size: $big-font;
+    text-align: center;
+}
+
+h2 {
+    color: $primary-color;
+    font-size: $medium-font;
+    text-align: center;
+}
+
+h3 {
+    color: $accent-color;
+    font-size: $medium-font;
+    text-align: center;
+}
+
+h4 {
+    color: $accent-color;
+    font-size: $small-font;
+    text-align: center;
+}
